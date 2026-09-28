@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "Notebook Gamer Pro",
+    "precio": 899999,
+    "descripcion": "Notebook gamer de alto rendimiento con procesador de última generación, 16GB de RAM DDR5, SSD de 512GB y pantalla de 15.6 pulgadas Full HD a 144Hz. Ideal para gaming y tareas exigentes.",
+    "imagen": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400&h=300&fit=crop",
+    "categoria": "Notebooks",
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "nombre": "Monitor Curvo 27\"",
+    "precio": 459999,
+    "descripcion": "Monitor curvo de 27 pulgadas con resolución QHD 2560x1440, panel VA, 165Hz de tasa de refresco y 1ms de tiempo de respuesta. Perfecto para gaming y diseño.",
+    "imagen": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400&h=300&fit=crop",
+    "categoria": "Monitores",
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Mecánico RGB",
+    "precio": 89999,
+    "descripcion": "Teclado mecánico con switches Cherry MX Red, retroiluminación RGB personalizable por tecla, construcción en aluminio y reposamuñecas magnético incluido.",
+    "imagen": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=400&h=300&fit=crop",
+    "categoria": "Periféricos",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "nombre": "Mouse Inalámbrico Ergonómico",
+    "precio": 54999,
+    "descripcion": "Mouse ergonómico inalámbrico con sensor óptico de 16000 DPI, 6 botones programables, batería recargable de hasta 70 horas de autonomía y conexión dual Bluetooth/USB.",
+    "imagen": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400&h=300&fit=crop",
+    "categoria": "Periféricos",
+    "stock": 30
+  },
+  {
+    "id": 5,
+    "nombre": "Auriculares Bluetooth Pro",
+    "precio": 129999,
+    "descripcion": "Auriculares over-ear con cancelación activa de ruido, sonido Hi-Res, 30 horas de batería, micrófono integrado y conexión multipunto para dos dispositivos simultáneos.",
+    "imagen": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
+    "categoria": "Audio",
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "nombre": "Webcam Full HD 1080p",
+    "precio": 44999,
+    "descripcion": "Webcam con resolución Full HD 1080p a 60fps, autofocus, corrección de luz automática, micrófono estéreo dual y clip universal para monitor o trípode.",
+    "imagen": "https://images.unsplash.com/photo-1587826080692-f439cd0b70da?w=400&h=300&fit=crop",
+    "categoria": "Accesorios",
+    "stock": 20
+  },
+  {
+    "id": 7,
+    "nombre": "SSD NVMe 1TB",
+    "precio": 119999,
+    "descripcion": "Disco sólido NVMe M.2 de 1TB con velocidades de lectura de hasta 7000 MB/s y escritura de 5500 MB/s. Compatible con PCIe Gen 4. Incluye disipador.",
+    "imagen": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=400&h=300&fit=crop",
+    "categoria": "Almacenamiento",
+    "stock": 18
+  },
+  {
+    "id": 8,
+    "nombre": "Hub USB-C 7 en 1",
+    "precio": 34999,
+    "descripcion": "Hub USB-C multipuerto con HDMI 4K, 2x USB 3.0, 1x USB-C PD 100W, lector de tarjetas SD/microSD y puerto Ethernet Gigabit. Carcasa de aluminio.",
+    "imagen": "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=400&h=300&fit=crop",
+    "categoria": "Accesorios",
+    "stock": 35
+  }
+]

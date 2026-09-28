@@ -1,0 +1,111 @@
+.footer {
+  background-color: #1a1a2e;
+  color: #c0c0d0;
+  padding: 2.5rem 2rem 1.5rem;
+  margin-top: auto;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-info {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #2a2a4a;
+}
+
+.footer-section h3 {
+  color: #e94560;
+  margin-bottom: 0.75rem;
+  font-size: 1.1rem;
+}
+
+.footer-section p {
+  margin: 0.4rem 0;
+  font-size: 0.9rem;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  margin: 0.4rem 0;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.footer-links li:hover {
+  color: #e94560;
+}
+
+.footer-equipo {
+  padding-top: 2rem;
+  text-align: center;
+}
+
+.footer-equipo h3 {
+  color: #e94560;
+  margin-bottom: 1.5rem;
+  font-size: 1.2rem;
+}
+
+.equipo-cards {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.equipo-card {
+  background-color: #16213e;
+  border-radius: 10px;
+  padding: 1.5rem;
+  width: 200px;
+  text-align: center;
+  transition: transform 0.3s;
+}
+
+.equipo-card:hover {
+  transform: translateY(-4px);
+}
+
+.equipo-avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #e94560;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin: 0 auto 0.75rem;
+}
+
+.equipo-card h4 {
+  color: #ffffff;
+  margin: 0 0 0.25rem;
+  font-size: 1rem;
+}
+
+.equipo-rol {
+  color: #e94560;
+  font-size: 0.8rem;
+  margin: 0 0 0.5rem;
+  font-weight: 600;
+}
+
+.equipo-desc {
+  font-size: 0.8rem;
+  color: #a0a0c0;
+  margin: 0;
+}

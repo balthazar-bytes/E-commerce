@@ -1,0 +1,23 @@
+.header {
+  background-color: #1a1a2e;
+  color: #ffffff;
+  padding: 1rem 2rem;
+  text-align: center;
+}
+
+.header-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header-logo {
+  font-size: 2rem;
+  margin: 0;
+  letter-spacing: 2px;
+}
+
+.header-slogan {
+  font-size: 0.9rem;
+  color: #a0a0c0;
+  margin: 0.25rem 0 0;
+}
